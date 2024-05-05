@@ -7,8 +7,8 @@
 
 I am an aspiring Full Stack Developer from Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-* 🔭 I’m working as an IT specialist.
-* 🌱 Exploring Fullstack development.
+* 🔭 I am currently working as an IT specialist.
+* 🌱 Exploring Fullstack development. I started my journey last October 18, 2023.
 * ⚡ In my free time I study coding and read tech articles.
 * 📫 Contact me in: &nbsp;(https://www.linkedin.com/in/kimangeloalvarez/)
 
