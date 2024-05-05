@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @kesobyte
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development
-
-
-<!---
-kesobyte/kesobyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Kim Angelo Alvarez</h1>
+<h3 align="center">Feel free to connect with me on GitHub as I embark on this exciting journey of learning the **Fullstack Development** </h3>
