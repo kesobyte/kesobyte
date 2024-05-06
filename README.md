@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kesobyte&color=yellow&style=for-the-badge" alt=""></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist:&nbsp;About Me :
 
 I am an aspiring Full Stack Developer from Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
