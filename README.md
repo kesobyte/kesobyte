@@ -5,7 +5,7 @@
 
 ### :man_technologist:&nbsp;About Me :
 
-I am an aspiring Full Stack Developer from Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am an IT specialist from Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 * 🔭 I am currently working as an IT specialist.
 * 🌱 Exploring Fullstack development. I started my journey last October 18, 2023.
