@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Angelo Alvarez</h1>
 <h3 align="center">Feel free to connect with me on GitHub as I embark on this exciting journey of learning the <b>Fullstack Development</b></h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kesobyte&color=yellow&style=for-the-badge" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kesobyte&color=yellow&style=plastic" alt=""></p>
 
 ### :man_technologist:&nbsp;About Me :
 
