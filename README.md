@@ -9,8 +9,8 @@
 
 I am an IT specialist from Philippines <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-* 🔭 I am currently exploring Fullstack development. I started my journey last October 18, 2023.
-* ⚡ In my free time I study coding and read tech articles.
+I'm a flexible and resourceful person who loves exploring new challenges and learning along the way. I'm always striving to improve and give my best in everything I do.
+
 * 📫 Contact me in: &nbsp;(https://www.linkedin.com/in/kimangeloalvarez/)
 
 ---
